@@ -1,6 +1,3 @@
-import 'package:dirbbox/app/modules/home/views/home_view.dart';
-import 'package:dirbbox/app/modules/login/views/login_view.dart';
-import 'package:dirbbox/app/modules/profile/views/profile_view.dart';
 import 'package:dirbbox/app/routes/app_pages.dart';
 import 'package:dirbbox/app/widgets/navigation_item.dart';
 import 'package:flutter/material.dart';
@@ -14,7 +11,6 @@ class MainDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Drawer(
-      // backgroundColor: Color(0xFFE5E5E5).withOpacity(0.3),
       width: double.infinity,
       child: ListView(
         padding: EdgeInsets.zero,
