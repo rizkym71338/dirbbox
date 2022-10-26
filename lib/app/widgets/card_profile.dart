@@ -38,7 +38,7 @@ class CardProfile extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                "Neelesh Chaudhary",
+                "Rizky Maulana",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 18,
@@ -50,7 +50,7 @@ class CardProfile extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                "UI / UX Designer",
+                "Mobile Developer",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 13,

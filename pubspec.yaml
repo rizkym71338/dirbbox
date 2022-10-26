@@ -9,6 +9,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   get: 4.6.5
   sliver_header_delegate: 0.0.5
+  toggle_switch: 2.0.1
   flutter: 
     sdk: flutter
 
