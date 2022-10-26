@@ -101,27 +101,27 @@ class MainDrawer extends StatelessWidget {
           NavigationItem(
             name: "Storage",
             icon: Icons.storage_rounded,
-            route: Routes.PROFILE,
+            route: Routes.STORAGE,
           ),
           NavigationItem(
             name: "Shared",
             icon: Icons.share_rounded,
-            route: Routes.PROFILE,
+            route: Routes.LOGIN,
           ),
           NavigationItem(
             name: "Stats",
             icon: Icons.bar_chart_rounded,
-            route: Routes.PROFILE,
+            route: Routes.LOGIN,
           ),
           NavigationItem(
             name: "Settings",
             icon: Icons.settings_rounded,
-            route: Routes.PROFILE,
+            route: Routes.LOGIN,
           ),
           NavigationItem(
             name: "Help",
             icon: Icons.help_outline_rounded,
-            route: Routes.PROFILE,
+            route: Routes.LOGIN,
           ),
           SizedBox(
             height: 80,
